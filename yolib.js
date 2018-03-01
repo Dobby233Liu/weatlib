@@ -9,6 +9,7 @@ http.createServer(function(req, res){
         // read file
         res.writeHead(200, {'Content-Type': 'text/html','Content-Length':data.length});
         res.write(data);
+        // end
         res.end();
     });
 exports.go = go;
