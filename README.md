@@ -1,5 +1,5 @@
 # yolib
-node.js yoweather library :umbrella:
+node.js yowindow library :umbrella:
 
 
 # yolib - a how-to:
