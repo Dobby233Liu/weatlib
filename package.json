@@ -1,0 +1,25 @@
+{
+  "name": "weatlib",
+  "version": "1.0.0",
+  "description": ":umbrella: a node.js library for yoweather",
+  "main": "weatlib.js",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TemTemmie/weatlib.git"
+  },
+  "keywords": [
+    "weather",
+    "useful",
+    "html",
+    "embed"
+  ],
+  "author": "t3nt1619",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TemTemmie/weatlib/issues"
+  },
+  "homepage": "https://github.com/TemTemmie/weatlib#readme"
+}
