@@ -8,3 +8,4 @@ node.js yoweather library :umbrella:
 2. use the code snippet in the examples folder.
 3. deploy it
 4. done!
+https://www.npmjs.com/package/weatlib
