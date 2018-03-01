@@ -1,6 +1,6 @@
 var http = require('http');
 var fs = require('fs');
-var data = require('./yolib.txt');
+var data = require('./config.json');
 
 http.createServer(function(req, res){
     fs.readFile('local.html',function (err, data){
