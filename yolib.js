@@ -1,7 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 var data = require('./config.json');
-
+// still nothing
 var go = function();
 // start function
 http.createServer(function(req, res){
