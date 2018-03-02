@@ -2,7 +2,7 @@ var http = require('http');
 var fs = require('fs');
 var data = require('./config.json');
 // still nothing
-var go = function();
+var go = function(){
 // start function
 http.createServer(function(req, res){
     fs.readFile('local.html',function (err, data){
@@ -11,5 +11,5 @@ http.createServer(function(req, res){
         res.write(data);
         // end
         res.end();
-    });
+    });});}
 exports.go = go;
